@@ -1,4 +1,5 @@
 # Nmap-Splunk-CyberSecurity_Lab
+<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXWpiP07q5Y2LorcywksUK_1mdeCgnsfXiWGoSYsiSj2wa8G3axH-gNTU7vzYvtbewX4om-RyjlMI0NcwqeWqDkF9CeFQylmbjHV6QLWzHeKs4Txoj_PNu87BXXKPdiBfeUApIAqbHJrU/s1600/nmap.png />
 
 Laboratório Prático: Auditoria de Ativos com Nmap & Centralização de Logs no Splunk Enterprise
 
