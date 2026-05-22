@@ -1,4 +1,5 @@
-   <img width="540" height="245" alt="image" src="https://github.com/user-attachments/assets/6d438473-3e2f-46d7-b091-a8fba75197f4" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/f66bcb87-badd-49a6-bd56-44ec7381fadc" />
+
 
 
 # Nmap-Splunk-CyberSecurity_Lab
