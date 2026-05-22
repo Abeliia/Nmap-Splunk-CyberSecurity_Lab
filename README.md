@@ -1,6 +1,7 @@
-# Nmap-Splunk-CyberSecurity_Lab
-<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/f8802844-55a3-448e-aa9f-8c9410dda4d3" />
+<img width="540" height="245" alt="image" src="https://github.com/user-attachments/assets/6d438473-3e2f-46d7-b091-a8fba75197f4" />
 
+
+# Nmap-Splunk-CyberSecurity_Lab
 
 Laboratório Prático: Auditoria de Ativos com Nmap & Centralização de Logs no Splunk Enterprise
 
